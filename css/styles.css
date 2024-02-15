@@ -4,8 +4,7 @@ body {
 }
 
 #content {
-	backround: ../images/paper.jpg;
-	background-position: left top;
+	backround-image: url("../images/paper.jpg");
   	background-repeat: repeat;
 	width: 960px;
 	margin:	10px 10px 10px 10px;
