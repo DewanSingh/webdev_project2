@@ -33,8 +33,7 @@ body {
 
 #proj-nav ul li {
 	float: left;
-	position: relative;
-	right: 50%;
+	position: static;
 }
 
 #proj-nav ul li a {
