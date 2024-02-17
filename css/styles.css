@@ -11,7 +11,9 @@ body {
 }
 
 #header {
-
+	position: relative;
+	margin-top: 40px;
+	border-radius: 12px 12px 0px 0px;
 }
 
 #proj-nav {
