@@ -4,8 +4,6 @@ body {
 }
 
 #content {
-	backround-image: url("../images/paper.jpg");
-  	background-repeat: repeat-x;
 	width: 960px;
 	margin:	10 auto;
 	box-shadow: 0px 5px 10px 5px rgba(0,0,0,1);
@@ -14,4 +12,31 @@ body {
 
 #header {
 
+}
+
+#proj-nav {
+	float: left;
+	width: 100%;
+	background-color: #555;
+}
+
+#proj-nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+	position: relative;
+	left:50%;
+}
+
+#proj-nav ul li {
+	float: left;
+	position: relative;
+	right: 50%;
+}
+
+#proj-nav ul li a {
+	padding: 10px 25px;
+	display: block;
+	color: #FFEFD5;
 }
