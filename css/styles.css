@@ -39,6 +39,7 @@ body {
 	color: #FFEFD5;
 }
 
-#proj-nav ul li a {
-	
+#proj-nav ul li a:hover {
+	background-color: #FFEFD5;
+	color: #666;
 }
