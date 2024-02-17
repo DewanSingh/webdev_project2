@@ -33,8 +33,12 @@ body {
 
 #proj-nav ul li {
 	float: left;
-	position: static;
+	position: relative;
 	padding: 10px 25px;
 	display: block;
 	color: #FFEFD5;
+}
+
+#proj-nav ul li a {
+	
 }
