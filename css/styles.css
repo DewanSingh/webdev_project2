@@ -15,12 +15,12 @@ h1 {
 	text-align: center;
 }
 
-#cont h2 strong {
+h2 {
+	position: relative;
 	text-align: center;
 }
 
-
-#cont img {
+img {
 	position: relative;
 	text-align: center;
 }
@@ -52,6 +52,7 @@ audio {
 }
 
 #proj-nav ul li {
+	padding: 10px 25px;
 	float: left;
 	position: relative;
 	right: 50%;
@@ -59,8 +60,6 @@ audio {
 }
 
 #proj-nav ul li a {
-	padding: 10px 25px;
-	display: block;
 	text-decoration: none;
 	color: #FFEFD5;
 }
