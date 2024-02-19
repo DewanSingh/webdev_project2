@@ -56,10 +56,10 @@ audio {
 	float: left;
 	position: relative;
 	right: 50%;
+	display: block;
 }
 
 #proj-nav ul li a {
-	display: block;
 	text-decoration: none;
 	color: #FFEFD5;
 
