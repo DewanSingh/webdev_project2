@@ -10,17 +10,7 @@ body {
 	border-radius 15px;
 }
 
-h1 {
-	position: relative;
-	text-align: center;
-}
-
-h2 strong {
-	position: relative;
-	text-align: center;
-}
-
-img {
+h1, h2 strong, img {
 	position: relative;
 	text-align: center;
 }
@@ -52,7 +42,6 @@ audio {
 }
 
 #proj-nav ul li {
-	padding: 10px 25px;
 	float: left;
 	position: relative;
 	right: 50%;
@@ -60,10 +49,8 @@ audio {
 }
 
 #proj-nav ul li a {
+	padding: 10px 25px;
+	display: block;
 	text-decoration: none;
 	color: #FFEFD5;
-
-#proj-nav ul li a:hover {
-	background-color: #FFEFD5;
-	color: #666;
 }
