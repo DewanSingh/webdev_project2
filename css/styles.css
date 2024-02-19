@@ -20,9 +20,9 @@ h2 {
 	text-align: center;
 }
 
-img {
+.imgc {
 	position: relative;
-	text-align: center;
+	left:25%;
 }
 
 audio {
@@ -62,4 +62,8 @@ audio {
 #proj-nav ul li a {
 	text-decoration: none;
 	color: #FFEFD5;
+
+#proj-nav ul li a:hover {
+	background-color: #FFEFD5;
+	color: #666;
 }
