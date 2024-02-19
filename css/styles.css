@@ -15,12 +15,12 @@ h1 {
 	text-align: center;
 }
 
-h2 strong {
+#cont h2 strong {
 	text-align: center;
 }
 
 
-img {
+#cont img {
 	position: relative;
 	text-align: center;
 }
