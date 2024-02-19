@@ -34,7 +34,7 @@ body {
 #proj-nav ul li {
 	float: left;
 	position: relative;
-	right 50%;
+	right: 50%;
 }
 
 #proj-nav ul li a {
