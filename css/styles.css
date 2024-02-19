@@ -2,7 +2,7 @@ body {
 	background: rgb(255,176,187);
 	background: linear-gradient(0deg, rgba(255,176,187,1) 0%, rgba(223,253,255,1) 50%, rgba(255,232,183,1) 100%);
 }
-
+        
 #content {
 	width: 960px;
 	margin: 0 auto;
@@ -11,6 +11,16 @@ body {
 }
 
 h1 {
+	position: relative;
+	text-align: center;
+}
+
+h2 {
+	position: relative;
+	text-align: center;
+}
+
+img {
 	position: relative;
 	text-align: center;
 }
