@@ -20,9 +20,10 @@ h2 {
 	text-align: center;
 }
 
-#content img.imgc {
-	position: relative;
-	text-align: center;
+.imgc {
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 }
 
 audio {
