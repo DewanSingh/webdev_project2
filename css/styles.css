@@ -10,7 +10,7 @@ body {
 	border-radius 15px;
 }
 
-h1, h2 strong, img {
+h1 {
 	position: relative;
 	text-align: center;
 }
