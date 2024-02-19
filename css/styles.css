@@ -38,6 +38,7 @@ h1 {
 }
 
 #proj-nav ul li {
+	padding: 10px 25px;
 	float: left;
 	position: relative;
 	right: 50%;
