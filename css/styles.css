@@ -10,13 +10,14 @@ body {
 	border-radius 15px;
 }
 
-#content h1 {
+h1 {
 	position: relative;
 	width: 50%;
 }
 
 #header {
 	position: relative;
+	width: 50%;
 	margin-top: 40px;
 	border-radius: 12px 12px 0px 0px;
 }
