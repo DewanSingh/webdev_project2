@@ -21,9 +21,8 @@ h2 {
 }
 
 .imgc {
-	margin-left: auto;
-  	margin-right: auto;
-  	width: 50%;
+	position: relative;
+	left:25%;
 }
 
 audio {
