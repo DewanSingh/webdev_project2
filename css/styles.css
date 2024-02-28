@@ -56,7 +56,7 @@ audio {
 }
 
 #proj-nav ul li {
-	padding: 1em 1em;
+	padding: 0.5em 1em;
 	float: left;
 	position: relative;
 	right: 50%;
