@@ -8,9 +8,6 @@ body {
 	margin: 0 auto;
 	box-shadow: 0em 1em 1em 0.5em rgba(0, 0, 0, 1);
 	border-radius: 1em;
-}
-
-main #cont {
   padding: 1em;
 }
 
