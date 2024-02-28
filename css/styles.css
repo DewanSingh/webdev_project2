@@ -76,7 +76,7 @@ audio {
 @media screen and (min-width: 800px) {
 
   #content {
-    font-weight: normal;
-    font-size: large;
+    font-weight: bolder;
+    font-size: larger;
   }
 }
