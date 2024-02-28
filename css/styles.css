@@ -75,7 +75,7 @@ audio {
 	color: #666666;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 800px) {
 
   #content {
     font-weight: bolder;
