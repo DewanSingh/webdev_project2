@@ -23,10 +23,7 @@ h1 {
 h2 {
 	position: relative;
 	text-align: center;
-}
-
-h2 strong {
-	font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
 }
 
 .imgc {
